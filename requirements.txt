@@ -1,0 +1,5 @@
+#This file lists the libraries you will need. 
+
+opencv-python == 4.8.1.78
+numpy == 1.23.3
+ultralytics == 8.0.218
