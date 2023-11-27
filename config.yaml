@@ -1,5 +1,5 @@
 
-path: D:/PyCharm/venv/Airost (Scratch) # Dataset root dir
+path: D:/PyCharm/venv/Airost (Scratch) # Dataset root dir, please note that this path is a `absolute` PATH. 
 train: images/train # Train images (it's relative to path)
 val: images/train # Val images (it's relative to path)
 
