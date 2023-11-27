@@ -35,7 +35,9 @@ model = YOLO("weights/yolov8n.pt")
 # config.yaml is where the images you want the model to be trained. 
 results = model.train(data = "config.yaml", epochs = 10)
 ```
-The codes provided above is to train a `new model` / `pretrained-model`. 
+The codes provided above is to train a `new model` / `pre-trained model`. 
+A `new model` will be training images from images that are annotated by using `robotflow` OR `CVAT`. 
+A `pre-trained model` is the model provided by ultralytics. 
 
 ```py
 import cv2
