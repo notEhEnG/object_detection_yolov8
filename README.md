@@ -138,3 +138,7 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 ```
+
+## Result 
+<img width="481" alt="image" src="https://github.com/notEhEnG/object_detection_yolov8/assets/111334322/c20a5947-7d28-45e4-a59b-c041e8bd9faf">
+<img width="480" alt="image" src="https://github.com/notEhEnG/object_detection_yolov8/assets/111334322/de6af446-48c1-437e-be71-745ed681700b">
