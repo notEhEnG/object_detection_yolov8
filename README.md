@@ -20,6 +20,8 @@ You can download the PyCharm [here](https://www.jetbrains.com/edu-products/downl
 pip install -r requirements.txt 
 ```
 
+To view more pre-trained model provided by ultralytics, click [here](https://docs.ultralytics.com/tasks/detect/#models).
+
 ## Coding
 ```py
 from ultralytics import YOLO
